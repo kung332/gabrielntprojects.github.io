@@ -11063,5 +11063,6 @@ section.resume-section .resume-section-content {
 }
 
 #linkbt{
-  color:#00ffd5
+color:#00ffd5;
+text-decoration: none;
 }
